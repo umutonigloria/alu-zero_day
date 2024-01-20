@@ -1,0 +1,6 @@
+    1  cd alu-zero_day
+    2  cd git
+    3  git branch
+    4  git pull
+    5  cat up_to_date
+    6  history>up_to_date
